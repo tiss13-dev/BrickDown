@@ -29,3 +29,6 @@ ou utilise les boutons <> en bas
 HTML5
 VSS3
 JavaScript (Canvas, Web Audio AP)
+
+## Auteur
+Développé par tiss13-dev
